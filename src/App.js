@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'; 
-import Home from './components/home.js'; 
-import Navbar from './components/navbar.js'; 
+import Home from './components/Home.js'; 
+import Navbar from './components/Navbar.js'; 
 import Customers from './components/Customers.js';  
 import Firebase from './firebase.js';
 import 'tailwindcss/tailwind.css';

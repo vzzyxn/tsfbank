@@ -1,5 +1,5 @@
 import React from 'react';   
-function home () {
+function Home () {
 	return (  
 		<div className="h-screen bg-white"> 
 	<h1 class="mt-6 font-bold tracking-wide antialiased text-slate-950 text-5xl text-center font-sans">Bank of TSF</h1> 
@@ -8,4 +8,4 @@ function home () {
 	);
 
 }
-export default home;
+export default Home;
